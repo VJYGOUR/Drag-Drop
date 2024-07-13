@@ -22,7 +22,7 @@ const App = () => {
     },
     {
       id: 3,
-      title: "Earn how",
+      title: "how beautiful life is",
     },
   ]);
   const getTaskPos = (id) => tasks.findIndex((task) => task.id === id);
